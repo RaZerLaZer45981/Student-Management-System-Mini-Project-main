@@ -1,0 +1,6 @@
+STU104|Ananya Verma|21|Artificial Intelligence:96.0
+STU102|Priya Singh|20|Data Science:94.0
+STU101|Rahul Sharma|21|Computer Science:87.5
+420|Pascal Imani-Patton|22|CS 67:75.0
+STU103|Aman Kumar|22|Information Technology:72.0
+678|Seth|19|CS 67:95.0,100.0,100.0,98.0;CS 130:4.0;Psy 013:94.0,78.0,92.0,86.0;Jap 003:99.0
